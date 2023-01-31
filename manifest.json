@@ -1,0 +1,17 @@
+{
+    "name": "Cristian Ronaldo",
+    "short_name": "CR7",
+    "theme_color": "#a8bed0",
+    "background_color": "#000000",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./index.html",
+    "icons": [
+        {
+            "src": "./img/7CR7.png",
+            "type": "image/png",
+            "sizes": "2560x2560"
+        }
+    ]
+}
